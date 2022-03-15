@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Keder Julián Madera Polo
+20 Años
+Mis aspiraciones con esta materia es aprender sobre el paradigma de la programación orientada a objetos y ganarla :D
+=======
+No se pueden subir carpetas vacias
+>>>>>>> f237d467a3ef38f00ca7c009884e6f2a5de05b49
+
+
+es importante tener cuidado el modificar dos archivos al mismo tiempo porque podemos perder información valiosa
